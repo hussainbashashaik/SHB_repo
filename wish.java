@@ -1,2 +1,3 @@
 class wish
 }
+goodluck
